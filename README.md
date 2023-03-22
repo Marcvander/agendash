@@ -1,4 +1,6 @@
-# Agendash
+# Agendash3
+
+This is a fork from Agendash (https://github.com/agenda/agendash). Since the project was not maintained anymore, and there were some bugs, I decided to fork it to fix the bugs and make it usable again.
 
 A Dashboard for [Agenda](https://github.com/agenda/agenda).
 
